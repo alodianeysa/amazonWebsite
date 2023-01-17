@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_all</name>
+   <tag></tag>
+   <elementGuidId>59149ab8-9f06-4b3b-8f0e-e3a1e1646ff0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'nav-hamburger-menu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All</value>
+      <webElementGuid>2611f0ce-0e4f-4436-89d2-3c9018527f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-hamburger-menu</value>
+      <webElementGuid>d5281af4-ed7d-4856-bb00-1fe833490cfc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

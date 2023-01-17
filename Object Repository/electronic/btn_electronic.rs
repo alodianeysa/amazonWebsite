@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_electronic</name>
+   <tag></tag>
+   <elementGuidId>720e93fa-fca3-46df-823a-7bd8cdd55fc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;hmenu-content&quot;]/ul[1]/li[7]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;hmenu-content&quot;]/ul[1]/li[7]/a/div</value>
+      <webElementGuid>300ab4f8-fabf-448c-9fb9-51a9908ccaea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

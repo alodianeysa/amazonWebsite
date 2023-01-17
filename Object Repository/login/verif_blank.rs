@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verif_blank</name>
+   <tag></tag>
+   <elementGuidId>759b4f92-718c-43bc-bd53-2a6ea6081ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;auth-email-missing-alert&quot;]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter your email or mobile phone number</value>
+      <webElementGuid>3c26649a-7b34-40f9-a95a-6079ce362ccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-alert-content</value>
+      <webElementGuid>273323ff-7802-4c21-be0c-6b3ad6f5cb92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;auth-email-missing-alert&quot;]/div/div</value>
+      <webElementGuid>90ecd995-9da8-464b-9664-f9a34da9e79a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

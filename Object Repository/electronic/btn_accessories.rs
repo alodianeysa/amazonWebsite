@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_accessories</name>
+   <tag></tag>
+   <elementGuidId>d220a207-dce7-47d8-a02e-54a5cf8a9534</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;hmenu-content&quot;]/ul[5]/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;hmenu-content&quot;]/ul[5]/li[3]/a</value>
+      <webElementGuid>233380ff-92f9-440a-a3b1-bc8632f7317d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
